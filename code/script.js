@@ -7,6 +7,7 @@ alert(
 )
 
 // Step 2 - Food choice
+// test
 // Your code goes here
 
 // Step 3 - Subtype choice
