@@ -1,5 +1,5 @@
 // Start here
-
+//
 // Step 1 - Welcome and introduction
 // Your code goes here
 alert(`Welcome to Javascript Pizzeria. Ready to Start? - Click 'OK' to begin.`)
